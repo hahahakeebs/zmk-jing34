@@ -129,6 +129,11 @@
             bindings = <&studio_unlock>;
             key-positions = <20 21 28 29>;
         };
+
+        pw {
+            bindings = <&pw>;
+            key-positions = <0 1 8 9>;
+        };
     };
 
     behaviors {
